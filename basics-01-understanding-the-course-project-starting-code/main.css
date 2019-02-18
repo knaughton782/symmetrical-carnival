@@ -1,0 +1,27 @@
+/* font-family: 'Shadows Into Light', cursive;
+font-family: 'Amatic SC', cursive;
+font-family: 'Playfair Display', serif; */
+
+body {
+    font-family: 'Shadows Into Light', cursive;
+}
+main {
+    padding: 0 10px;
+}
+
+#site-title {
+    background-color: pink;
+}
+    
+h1 {
+    color: white;
+    font-family: 'Playfair Display', serif;
+}
+.section-title {
+    color: black;
+    font-family: 'Amatic SC', cursive;
+
+}
+p{
+    padding-left: 20px;
+}
